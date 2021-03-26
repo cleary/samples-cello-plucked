@@ -1,0 +1,138 @@
+{
+  "copyright": "(c) 2021 Trevor Exter <trevorexter@gmail.com>",
+  "description": "Bowed cello samples tuned to C with various attacks, styles, releases and octaves.",
+  "shortname": "cbow",
+  "email": "bernie@grbt.com.au",
+  "license": "CC0",
+  "maintainer": "Bernard Gray",
+  "metadata-format": "clean-0.1",
+  "provenance": "Created by Trevor Exter",
+  "sounds": [
+    {
+      "description": "",
+      "filename": "01.1_C2_bowed_long_vibrato.wav",
+      "shortname": "01.1_C2_bowed_long_vibrato",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "01.2_C2_bowed_long.wav",
+      "shortname": "01.2_C2_bowed_long",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "01.3_C2_bowed_long_hammered.wav",
+      "shortname": "01.3_C2_bowed_long_hammered",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "01.4_C2_bowed_short_hammered.wav",
+      "shortname": "01.4_C2_bowed_short_hammered",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "02.2_C3_bowed_long_natural_release.wav",
+      "shortname": "02.2_C3_bowed_long_natural_release",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "02.3_C3_bowed_med.wav",
+      "shortname": "02.3_C3_bowed_med",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "02.4_C3_bowed_short_natural_release_.wav",
+      "shortname": "02.4_C3_bowed_short_natural_release_",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "02.5_C3_bowed_short_staccato.wav",
+      "shortname": "02.5_C3_bowed_short_staccato",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "02.6_C3_bowed_short_hammered.wav",
+      "shortname": "02.6_C3_bowed_short_hammered",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "03.1_C4_bowed_long_vibrato.wav",
+      "shortname": "03.1_C4_bowed_long_vibrato",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "03.2_C4_bowed_long.wav",
+      "shortname": "03.2_C4_bowed_long",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "03.3_C4_bowed_short_natural_release.wav",
+      "shortname": "03.3_C4_bowed_short_natural_release",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "03.4_C4_bowed_short.wav",
+      "shortname": "03.4_C4_bowed_short",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "04.1_C5_bowed_long.wav",
+      "shortname": "04.1_C5_bowed_long",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "04.2_C5_bowed_short.wav",
+      "shortname": "04.2_C5_bowed_short",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "05.1_C2_G2_bowed_long.wav",
+      "shortname": "05.1_C2_G2_bowed_long",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "05.2_C2_G2_bowed_short_natural_release.wav",
+      "shortname": "05.2_C2_G2_bowed_short_natural_release",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "06.1_C3_G3_bowed_long.wav",
+      "shortname": "06.1_C3_G3_bowed_long",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "06.2_C3_G3_bowed_short_natural_release.wav",
+      "shortname": "06.2_C3_G3_bowed_short_natural_release",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "07.1_C4_G4_bowed_long.wav",
+      "shortname": "07.1_C4_G4_bowed_long",
+      "type": "sample"
+    },
+    {
+      "description": "",
+      "filename": "07.2_C4_G4_bowed_short_natural_release.wav",
+      "shortname": "07.2_C4_G4_bowed_short_natural_release",
+      "type": "sample"
+    }
+  ]
+}
