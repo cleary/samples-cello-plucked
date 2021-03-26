@@ -1,0 +1,7 @@
+(
+	\name: 			"samples-cello-plucked",
+	\summary:		"Bowed cello samples tuned to C with various attacks, styles, releases and octaves.",
+	\author: 		"Trevor Exter, maintained by Bernard Gray",
+	\since: 		"2021",
+	\dependencies:  []
+)
