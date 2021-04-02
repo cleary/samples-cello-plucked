@@ -13,5 +13,5 @@ then restart supercollider/load the new samples
 
 - Cello: "Grandpa" by Karl Laudermann, mfr Berlin 1906
 - Pickup: Piezo by Eric Aceto
-- Mic: Matched pair Neumann K184
+- Mic: Matched pair Neumann K184 
 - Normalised to -1.0db (mostly)
